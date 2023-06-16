@@ -1,0 +1,23 @@
+{
+  "name": "jsnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stunlook/JSNode.git"
+  },
+  "author": "Stepan Smirnov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stunlook/JSNode/issues"
+  },
+  "homepage": "https://github.com/stunlook/JSNode#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "prettier": "^2.8.8"
+  }
+}
